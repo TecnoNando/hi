@@ -1,0 +1,284 @@
+2020-03-29 18:45:24 __main__[102] - INFO: -------------------------
+2020-03-29 18:45:25 __main__[106] - INFO: v3.4.1
+2020-03-29 18:45:25 __main__[107] - INFO: Authors: kyb3r, fourjr, Taaku18
+2020-03-29 18:45:25 __main__[108] - INFO: -------------------------
+2020-03-29 18:45:34 cogs.plugins[219] - INFO: Loaded plugin: announcement
+2020-03-29 18:45:34 cogs.plugins[219] - INFO: Loaded plugin: anti-steal-close
+2020-03-29 18:45:34 cogs.plugins[219] - INFO: Loaded plugin: autorole
+2020-03-29 18:45:34 cogs.plugins[139] - ERROR: Error when loading plugin TheKinG2149/modmail-plugins/fun@master.
+Traceback (most recent call last):
+  File "C:\Users\tatfe\Desktop\modmail\cogs\plugins.py", line 137, in initial_load_plugins
+    await self.load_plugin(plugin)
+  File "C:\Users\tatfe\Desktop\modmail\cogs\plugins.py", line 195, in load_plugin
+    stdout=PIPE,
+  File "c:\users\tatfe\appdata\local\programs\python\python37-32\lib\asyncio\subprocess.py", line 202, in create_subprocess_shell
+    stderr=stderr, **kwds)
+  File "c:\users\tatfe\appdata\local\programs\python\python37-32\lib\asyncio\base_events.py", line 1492, in subprocess_shell
+    protocol, cmd, True, stdin, stdout, stderr, bufsize, **kwargs)
+  File "c:\users\tatfe\appdata\local\programs\python\python37-32\lib\asyncio\base_events.py", line 452, in _make_subprocess_transport
+    raise NotImplementedError
+NotImplementedError
+2020-03-29 18:45:34 cogs.plugins[219] - INFO: Loaded plugin: colors
+2020-03-29 18:45:34 cogs.plugins[219] - INFO: Loaded plugin: suggest
+2020-03-29 18:45:34 cogs.plugins[219] - INFO: Loaded plugin: supporters
+2020-03-29 18:45:34 cogs.plugins[219] - INFO: Loaded plugin: giveaway
+2020-03-29 18:45:34 cogs.plugins[139] - ERROR: Error when loading plugin officialpiyush/modmail-plugins/translator@master.
+Traceback (most recent call last):
+  File "C:\Users\tatfe\Desktop\modmail\cogs\plugins.py", line 137, in initial_load_plugins
+    await self.load_plugin(plugin)
+  File "C:\Users\tatfe\Desktop\modmail\cogs\plugins.py", line 195, in load_plugin
+    stdout=PIPE,
+  File "c:\users\tatfe\appdata\local\programs\python\python37-32\lib\asyncio\subprocess.py", line 202, in create_subprocess_shell
+    stderr=stderr, **kwds)
+  File "c:\users\tatfe\appdata\local\programs\python\python37-32\lib\asyncio\base_events.py", line 1492, in subprocess_shell
+    protocol, cmd, True, stdin, stdout, stderr, bufsize, **kwargs)
+  File "c:\users\tatfe\appdata\local\programs\python\python37-32\lib\asyncio\base_events.py", line 452, in _make_subprocess_transport
+    raise NotImplementedError
+NotImplementedError
+2020-03-29 18:45:34 cogs.plugins[139] - ERROR: Error when loading plugin papiersnipper/modmail-plugins/embedder@master.
+Traceback (most recent call last):
+  File "C:\Users\tatfe\Desktop\modmail\cogs\plugins.py", line 137, in initial_load_plugins
+    await self.load_plugin(plugin)
+  File "C:\Users\tatfe\Desktop\modmail\cogs\plugins.py", line 195, in load_plugin
+    stdout=PIPE,
+  File "c:\users\tatfe\appdata\local\programs\python\python37-32\lib\asyncio\subprocess.py", line 202, in create_subprocess_shell
+    stderr=stderr, **kwds)
+  File "c:\users\tatfe\appdata\local\programs\python\python37-32\lib\asyncio\base_events.py", line 1492, in subprocess_shell
+    protocol, cmd, True, stdin, stdout, stderr, bufsize, **kwargs)
+  File "c:\users\tatfe\appdata\local\programs\python\python37-32\lib\asyncio\base_events.py", line 452, in _make_subprocess_transport
+    raise NotImplementedError
+NotImplementedError
+2020-03-29 18:45:34 cogs.utility[603] - INFO: -------------------------
+2020-03-29 18:45:34 cogs.utility[614] - INFO: No activity has been set.
+2020-03-29 18:45:34 cogs.utility[619] - INFO: No status has been set.
+2020-03-29 18:45:34 __main__[414] - INFO: -------------------------
+2020-03-29 18:45:34 __main__[416] - INFO: Logged in as: ProTech | Modmail, etc...#4390
+2020-03-29 18:45:34 __main__[417] - INFO: Bot ID: 645279198138597386
+2020-03-29 18:45:34 __main__[421] - INFO: Owners: tecno       nando
+2020-03-29 18:45:34 __main__[422] - INFO: Prefix: -
+2020-03-29 18:45:34 __main__[423] - INFO: Guild Name: ProTech
+2020-03-29 18:45:34 __main__[424] - INFO: Guild ID: 676073108716650546
+2020-03-29 18:45:34 __main__[427] - INFO: -------------------------
+2020-03-29 18:45:34 __main__[433] - INFO: There are 0 thread(s) pending to be closed.
+2020-03-29 18:45:34 __main__[434] - INFO: -------------------------
+2020-03-29 18:53:52 cogs.plugins[335] - WARNING: Unable to load plugin officialakhil/modmail-plugins/blob/master/music@master.
+Traceback (most recent call last):
+  File "C:\Users\tatfe\Desktop\modmail\cogs\plugins.py", line 333, in plugins_add
+    await self.load_plugin(plugin)
+  File "C:\Users\tatfe\Desktop\modmail\cogs\plugins.py", line 183, in load_plugin
+    raise InvalidPluginError(f"{plugin.name}.py not found.")
+cogs.plugins.InvalidPluginError: blob/master/music.py not found.
+2020-03-29 18:55:19 cogs.plugins[335] - WARNING: Unable to load plugin officialakhil/modmail-plugins/tree/master/music/music.js@master.
+Traceback (most recent call last):
+  File "C:\Users\tatfe\Desktop\modmail\cogs\plugins.py", line 333, in plugins_add
+    await self.load_plugin(plugin)
+  File "C:\Users\tatfe\Desktop\modmail\cogs\plugins.py", line 183, in load_plugin
+    raise InvalidPluginError(f"{plugin.name}.py not found.")
+cogs.plugins.InvalidPluginError: tree/master/music/music.js.py not found.
+2020-03-29 19:15:34 cogs.utility[622] - INFO: Starting presence loop.
+2020-03-29 19:28:34 __main__[414] - INFO: -------------------------
+2020-03-29 19:28:34 __main__[416] - INFO: Logged in as: ProTech | Modmail, etc...#4390
+2020-03-29 19:28:34 __main__[417] - INFO: Bot ID: 645279198138597386
+2020-03-29 19:28:34 __main__[421] - INFO: Owners: tecno       nando
+2020-03-29 19:28:34 __main__[422] - INFO: Prefix: -
+2020-03-29 19:28:34 __main__[423] - INFO: Guild Name: ProTech
+2020-03-29 19:28:34 __main__[424] - INFO: Guild ID: 676073108716650546
+2020-03-29 19:28:34 __main__[427] - INFO: -------------------------
+2020-03-29 19:28:34 __main__[433] - INFO: There are 0 thread(s) pending to be closed.
+2020-03-29 19:28:34 __main__[434] - INFO: -------------------------
+2020-03-30 01:18:59 __main__[102] - INFO: -------------------------
+2020-03-30 01:18:59 __main__[106] - INFO: v3.4.1
+2020-03-30 01:18:59 __main__[107] - INFO: Authors: kyb3r, fourjr, Taaku18
+2020-03-30 01:18:59 __main__[108] - INFO: -------------------------
+2020-03-30 01:19:07 cogs.plugins[219] - INFO: Loaded plugin: announcement
+2020-03-30 01:19:07 cogs.plugins[219] - INFO: Loaded plugin: anti-steal-close
+2020-03-30 01:19:07 cogs.plugins[219] - INFO: Loaded plugin: autorole
+2020-03-30 01:19:07 cogs.plugins[139] - ERROR: Error when loading plugin TheKinG2149/modmail-plugins/fun@master.
+Traceback (most recent call last):
+  File "C:\Users\tatfe\Desktop\modmail\cogs\plugins.py", line 137, in initial_load_plugins
+    await self.load_plugin(plugin)
+  File "C:\Users\tatfe\Desktop\modmail\cogs\plugins.py", line 195, in load_plugin
+    stdout=PIPE,
+  File "c:\users\tatfe\appdata\local\programs\python\python37-32\lib\asyncio\subprocess.py", line 202, in create_subprocess_shell
+    stderr=stderr, **kwds)
+  File "c:\users\tatfe\appdata\local\programs\python\python37-32\lib\asyncio\base_events.py", line 1492, in subprocess_shell
+    protocol, cmd, True, stdin, stdout, stderr, bufsize, **kwargs)
+  File "c:\users\tatfe\appdata\local\programs\python\python37-32\lib\asyncio\base_events.py", line 452, in _make_subprocess_transport
+    raise NotImplementedError
+NotImplementedError
+2020-03-30 01:19:07 cogs.plugins[219] - INFO: Loaded plugin: colors
+2020-03-30 01:19:07 cogs.plugins[219] - INFO: Loaded plugin: suggest
+2020-03-30 01:19:07 cogs.plugins[219] - INFO: Loaded plugin: supporters
+2020-03-30 01:19:07 cogs.plugins[219] - INFO: Loaded plugin: giveaway
+2020-03-30 01:19:07 cogs.plugins[139] - ERROR: Error when loading plugin officialpiyush/modmail-plugins/translator@master.
+Traceback (most recent call last):
+  File "C:\Users\tatfe\Desktop\modmail\cogs\plugins.py", line 137, in initial_load_plugins
+    await self.load_plugin(plugin)
+  File "C:\Users\tatfe\Desktop\modmail\cogs\plugins.py", line 195, in load_plugin
+    stdout=PIPE,
+  File "c:\users\tatfe\appdata\local\programs\python\python37-32\lib\asyncio\subprocess.py", line 202, in create_subprocess_shell
+    stderr=stderr, **kwds)
+  File "c:\users\tatfe\appdata\local\programs\python\python37-32\lib\asyncio\base_events.py", line 1492, in subprocess_shell
+    protocol, cmd, True, stdin, stdout, stderr, bufsize, **kwargs)
+  File "c:\users\tatfe\appdata\local\programs\python\python37-32\lib\asyncio\base_events.py", line 452, in _make_subprocess_transport
+    raise NotImplementedError
+NotImplementedError
+2020-03-30 01:19:07 cogs.plugins[139] - ERROR: Error when loading plugin papiersnipper/modmail-plugins/embedder@master.
+Traceback (most recent call last):
+  File "C:\Users\tatfe\Desktop\modmail\cogs\plugins.py", line 137, in initial_load_plugins
+    await self.load_plugin(plugin)
+  File "C:\Users\tatfe\Desktop\modmail\cogs\plugins.py", line 195, in load_plugin
+    stdout=PIPE,
+  File "c:\users\tatfe\appdata\local\programs\python\python37-32\lib\asyncio\subprocess.py", line 202, in create_subprocess_shell
+    stderr=stderr, **kwds)
+  File "c:\users\tatfe\appdata\local\programs\python\python37-32\lib\asyncio\base_events.py", line 1492, in subprocess_shell
+    protocol, cmd, True, stdin, stdout, stderr, bufsize, **kwargs)
+  File "c:\users\tatfe\appdata\local\programs\python\python37-32\lib\asyncio\base_events.py", line 452, in _make_subprocess_transport
+    raise NotImplementedError
+NotImplementedError
+2020-03-30 01:19:07 cogs.plugins[139] - ERROR: Error when loading plugin officialakhil/modmail-plugins/blob/master/music@master.
+Traceback (most recent call last):
+  File "C:\Users\tatfe\Desktop\modmail\cogs\plugins.py", line 137, in initial_load_plugins
+    await self.load_plugin(plugin)
+  File "C:\Users\tatfe\Desktop\modmail\cogs\plugins.py", line 183, in load_plugin
+    raise InvalidPluginError(f"{plugin.name}.py not found.")
+cogs.plugins.InvalidPluginError: blob/master/music.py not found.
+2020-03-30 01:19:07 cogs.plugins[139] - ERROR: Error when loading plugin officialakhil/modmail-plugins/tree/master/music/music.js@master.
+Traceback (most recent call last):
+  File "C:\Users\tatfe\Desktop\modmail\cogs\plugins.py", line 137, in initial_load_plugins
+    await self.load_plugin(plugin)
+  File "C:\Users\tatfe\Desktop\modmail\cogs\plugins.py", line 183, in load_plugin
+    raise InvalidPluginError(f"{plugin.name}.py not found.")
+cogs.plugins.InvalidPluginError: tree/master/music/music.js.py not found.
+2020-03-30 01:19:07 cogs.utility[603] - INFO: -------------------------
+2020-03-30 01:19:07 cogs.utility[614] - INFO: No activity has been set.
+2020-03-30 01:19:07 cogs.utility[619] - INFO: No status has been set.
+2020-03-30 01:19:07 __main__[414] - INFO: -------------------------
+2020-03-30 01:19:07 __main__[416] - INFO: Logged in as: ProTech | Modmail, etc...#4390
+2020-03-30 01:19:07 __main__[417] - INFO: Bot ID: 645279198138597386
+2020-03-30 01:19:07 __main__[421] - INFO: Owners: tecno       nando
+2020-03-30 01:19:07 __main__[422] - INFO: Prefix: -
+2020-03-30 01:19:07 __main__[423] - INFO: Guild Name: ProTech
+2020-03-30 01:19:07 __main__[424] - INFO: Guild ID: 676073108716650546
+2020-03-30 01:19:07 __main__[427] - INFO: -------------------------
+2020-03-30 01:19:07 __main__[433] - INFO: There are 0 thread(s) pending to be closed.
+2020-03-30 01:19:07 __main__[434] - INFO: -------------------------
+2020-03-30 01:49:07 cogs.utility[622] - INFO: Starting presence loop.
+2020-03-30 02:27:01 __main__[414] - INFO: -------------------------
+2020-03-30 02:27:01 __main__[416] - INFO: Logged in as: ProTech | Modmail, etc...#4390
+2020-03-30 02:27:01 __main__[417] - INFO: Bot ID: 645279198138597386
+2020-03-30 02:27:01 __main__[421] - INFO: Owners: tecno       nando
+2020-03-30 02:27:01 __main__[422] - INFO: Prefix: -
+2020-03-30 02:27:01 __main__[423] - INFO: Guild Name: ProTech
+2020-03-30 02:27:01 __main__[424] - INFO: Guild ID: 676073108716650546
+2020-03-30 02:27:01 __main__[427] - INFO: -------------------------
+2020-03-30 02:27:01 __main__[433] - INFO: There are 0 thread(s) pending to be closed.
+2020-03-30 02:27:01 __main__[434] - INFO: -------------------------
+2020-03-30 12:45:01 __main__[1022] - WARNING: Failed to retrieve audit log: 'int' object has no attribute 'name'.
+2020-03-30 15:36:21 __main__[992] - WARNING: Failed to find linked message for reactions: Thread message not found.
+2020-03-30 15:36:23 __main__[992] - WARNING: Failed to find linked message for reactions: Thread message not found.
+2020-03-30 15:36:36 __main__[992] - WARNING: Failed to find linked message for reactions: Thread message not found.
+2020-03-30 15:36:37 __main__[992] - WARNING: Failed to find linked message for reactions: Thread message not found.
+2020-03-30 18:09:01 __main__[414] - INFO: -------------------------
+2020-03-30 18:09:01 __main__[416] - INFO: Logged in as: ProTech | Modmail, etc...#4390
+2020-03-30 18:09:01 __main__[417] - INFO: Bot ID: 645279198138597386
+2020-03-30 18:09:01 __main__[421] - INFO: Owners: tecno       nando
+2020-03-30 18:09:01 __main__[422] - INFO: Prefix: -
+2020-03-30 18:09:01 __main__[423] - INFO: Guild Name: ProTech
+2020-03-30 18:09:01 __main__[424] - INFO: Guild ID: 676073108716650546
+2020-03-30 18:09:01 __main__[427] - INFO: -------------------------
+2020-03-30 18:09:01 __main__[433] - INFO: There are 0 thread(s) pending to be closed.
+2020-03-30 18:09:01 __main__[434] - INFO: -------------------------
+2020-03-30 18:16:54 __main__[414] - INFO: -------------------------
+2020-03-30 18:16:54 __main__[416] - INFO: Logged in as: ProTech | Modmail, etc...#4390
+2020-03-30 18:16:54 __main__[417] - INFO: Bot ID: 645279198138597386
+2020-03-30 18:16:54 __main__[421] - INFO: Owners: tecno       nando
+2020-03-30 18:16:54 __main__[422] - INFO: Prefix: -
+2020-03-30 18:16:54 __main__[423] - INFO: Guild Name: ProTech
+2020-03-30 18:16:54 __main__[424] - INFO: Guild ID: 676073108716650546
+2020-03-30 18:16:54 __main__[427] - INFO: -------------------------
+2020-03-30 18:16:54 __main__[433] - INFO: There are 0 thread(s) pending to be closed.
+2020-03-30 18:16:54 __main__[434] - INFO: -------------------------
+2020-03-30 18:34:16 __main__[414] - INFO: -------------------------
+2020-03-30 18:34:16 __main__[416] - INFO: Logged in as: ProTech | Modmail, etc...#4390
+2020-03-30 18:34:16 __main__[417] - INFO: Bot ID: 645279198138597386
+2020-03-30 18:34:16 __main__[421] - INFO: Owners: tecno       nando
+2020-03-30 18:34:16 __main__[422] - INFO: Prefix: -
+2020-03-30 18:34:16 __main__[423] - INFO: Guild Name: ProTech
+2020-03-30 18:34:16 __main__[424] - INFO: Guild ID: 676073108716650546
+2020-03-30 18:34:16 __main__[427] - INFO: -------------------------
+2020-03-30 18:34:16 __main__[433] - INFO: There are 0 thread(s) pending to be closed.
+2020-03-30 18:34:16 __main__[434] - INFO: -------------------------
+2020-03-31 01:25:14 __main__[1163] - WARNING: CheckFailure: The check functions for command subscribe failed.
+2020-03-31 01:28:18 core.config[199] - INFO: Setting status.
+2020-03-31 01:28:33 core.config[199] - INFO: Setting status.
+2020-03-31 01:35:33 __main__[1143] - WARNING: CommandNotFound: Command "cobfig" is not found
+2020-03-31 01:36:56 core.config[199] - INFO: Setting anon_username.
+2020-03-31 01:38:29 core.config[199] - INFO: Setting anon_tag.
+2020-03-31 01:40:07 core.config[199] - INFO: Setting reply_without_command.
+2020-03-31 01:44:01 core.config[199] - INFO: Setting mention.
+2020-03-31 01:45:12 __main__[861] - INFO: Updating permissions for OWNER, 485477672856715275 (add=True).
+2020-03-31 01:45:12 cogs.utility[1286] - INFO: Granting Izam access to Modmail category.
+2020-03-31 01:46:21 core.config[199] - INFO: Setting sent_emoji.
+2020-03-31 01:50:08 core.config[199] - INFO: Setting thread_creation_footer.
+2020-03-31 01:52:55 core.config[199] - INFO: Setting thread_move_response.
+2020-03-31 01:54:05 core.config[199] - INFO: Setting twitch_url.
+2020-03-31 01:55:46 core.config[199] - INFO: Setting activity_type.
+2020-03-31 01:55:46 core.config[199] - INFO: Setting activity_message.
+2020-03-31 11:59:50 core.config[199] - INFO: Setting blocked_emoji.
+2020-03-31 12:09:12 core.config[199] - INFO: Setting close_emoji.
+2020-03-31 15:06:31 __main__[414] - INFO: -------------------------
+2020-03-31 15:06:31 __main__[416] - INFO: Logged in as: ProTech | Modmail, etc...#4390
+2020-03-31 15:06:31 __main__[417] - INFO: Bot ID: 645279198138597386
+2020-03-31 15:06:31 __main__[421] - INFO: Owners: Izam, tecno       nando
+2020-03-31 15:06:31 __main__[422] - INFO: Prefix: -
+2020-03-31 15:06:31 __main__[423] - INFO: Guild Name: ProTech
+2020-03-31 15:06:31 __main__[424] - INFO: Guild ID: 676073108716650546
+2020-03-31 15:06:31 __main__[427] - INFO: -------------------------
+2020-03-31 15:06:31 __main__[433] - INFO: There are 0 thread(s) pending to be closed.
+2020-03-31 15:06:31 __main__[434] - INFO: -------------------------
+2020-03-31 15:06:41 __main__[1126] - ERROR: Ignoring exception in on_ready.
+2020-03-31 15:06:41 __main__[1127] - ERROR: Unexpected exception:
+Traceback (most recent call last):
+  File "C:\Users\tatfe\.virtualenvs\modmail-wOu-eRHB\lib\site-packages\aiohttp\connector.py", line 924, in _wrap_create_connection
+    await self._loop.create_connection(*args, **kwargs))
+  File "c:\users\tatfe\appdata\local\programs\python\python37-32\lib\asyncio\base_events.py", line 975, in create_connection
+    ssl_handshake_timeout=ssl_handshake_timeout)
+  File "c:\users\tatfe\appdata\local\programs\python\python37-32\lib\asyncio\base_events.py", line 1003, in _create_connection_transport
+    await waiter
+  File "c:\users\tatfe\appdata\local\programs\python\python37-32\lib\asyncio\selector_events.py", line 812, in _read_ready__data_received
+    data = self._sock.recv(self.max_size)
+ConnectionResetError: [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\tatfe\.virtualenvs\modmail-wOu-eRHB\lib\site-packages\discord\client.py", line 270, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\tatfe\Desktop\modmail\plugins\officialpiyush\modmail-plugins\announcement-master\announcement.py", line 334, in on_ready
+    json={"id": self.bot.user.id},
+  File "C:\Users\tatfe\.virtualenvs\modmail-wOu-eRHB\lib\site-packages\aiohttp\client.py", line 1005, in __aenter__
+    self._resp = await self._coro
+  File "C:\Users\tatfe\.virtualenvs\modmail-wOu-eRHB\lib\site-packages\aiohttp\client.py", line 476, in _request
+    timeout=real_timeout
+  File "C:\Users\tatfe\.virtualenvs\modmail-wOu-eRHB\lib\site-packages\aiohttp\connector.py", line 522, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\tatfe\.virtualenvs\modmail-wOu-eRHB\lib\site-packages\aiohttp\connector.py", line 854, in _create_connection
+    req, traces, timeout)
+  File "C:\Users\tatfe\.virtualenvs\modmail-wOu-eRHB\lib\site-packages\aiohttp\connector.py", line 992, in _create_direct_connection
+    raise last_exc
+  File "C:\Users\tatfe\.virtualenvs\modmail-wOu-eRHB\lib\site-packages\aiohttp\connector.py", line 974, in _create_direct_connection
+    req=req, client_error=client_error)
+  File "C:\Users\tatfe\.virtualenvs\modmail-wOu-eRHB\lib\site-packages\aiohttp\connector.py", line 931, in _wrap_create_connection
+    raise client_error(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host counter.modmail-plugins.piyush.codes:443 ssl:None [Se ha forzado la interrupción de una conexión existente por el host remoto]
+2020-03-31 15:32:49 __main__[414] - INFO: -------------------------
+2020-03-31 15:32:49 __main__[416] - INFO: Logged in as: ProTech | Modmail, etc...#4390
+2020-03-31 15:32:49 __main__[417] - INFO: Bot ID: 645279198138597386
+2020-03-31 15:32:49 __main__[421] - INFO: Owners: Izam, tecno       nando
+2020-03-31 15:32:49 __main__[422] - INFO: Prefix: -
+2020-03-31 15:32:49 __main__[423] - INFO: Guild Name: ProTech
+2020-03-31 15:32:49 __main__[424] - INFO: Guild ID: 676073108716650546
+2020-03-31 15:32:49 __main__[427] - INFO: -------------------------
+2020-03-31 15:32:49 __main__[433] - INFO: There are 0 thread(s) pending to be closed.
+2020-03-31 15:32:49 __main__[434] - INFO: -------------------------
